@@ -70,4 +70,10 @@ changeColor = (255, 255, 255)
 
 
 
+#### 其余内容：
+
+> error.log						生成错误文件
+>
+> requirements.txt		为python的第三方库需求文件
+
 各种升级修改任君想象，由于API地址已经开源，因此建议由此需求的项目可以自行批量注册一批API
