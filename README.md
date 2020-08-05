@@ -75,5 +75,7 @@ changeColor = (255, 255, 255)
 > error.log						生成错误文件
 >
 > requirements.txt		为python的第三方库需求文件
+>
+> cutbg 						为API的调用接口内容
 
-各种升级修改任君想象，由于API地址已经开源，因此建议由此需求的项目可以自行批量注册一批API
+各种升级修改任君想象，由于APIKEY已经公开，可能会因此造成无法使用的错误，可以到https://www.remove.bg/中注册一批新的API，因此建议由此需求的项目可以自行批量注册一批API
