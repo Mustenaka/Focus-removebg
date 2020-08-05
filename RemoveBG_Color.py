@@ -17,7 +17,7 @@ Imgname = "sunxiaochuan.jpeg"
 outImagePath = ""
 
 # 需要替换的颜色 RGB 值
-changeColor = (255, 255, 255)  # 白色
+changeColor = (255, 255, 0)  # 白色
 
 
 folder = os.getcwd() + '\\img\\'
