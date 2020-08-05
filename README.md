@@ -58,15 +58,15 @@ changeColor = (255, 255, 255)
 
 在img文件夹中放有：sunxiaochuan.jpeg
 
-![sunxiaochuan](.\img\sunxiaochuan.jpeg)
+![sunxiaochuan](/img/sunxiaochuan.jpeg)
 
 运行后在img生成一个无背景图片的缓存文件sunxiaochuan.jpeg_no_bg.png
 
-![sunxiaochuan.jpeg_no_bg](.\img\sunxiaochuan.jpeg_no_bg.png)
+![sunxiaochuan.jpeg_no_bg](/img/sunxiaochuan.jpeg_no_bg.png)
 
 如果没有特殊的输出需求，则默认在out文件夹中生成一个经过颜色替换后的图片
 
-![ans](D:\work\Python_code_mine\Focus_new\out\ans.png)
+![ans](/out/ans.png)
 
 
 
